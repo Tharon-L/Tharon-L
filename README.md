@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tharon Loudiern | Data Science Apprentice
 
-![FR-Bannière-LinkedIn](https://github.com/user-attachments/assets/32d90c0a-d0a3-4ba9-9adc-a08f4a076627)
+![GB-Bannière-LinkedIn](https://github.com/user-attachments/assets/38837eaf-02c8-4c3d-9139-4c8ad42001bd)
 
 🚀 **Aspiring Data Scientist** | 📚 **Currently learning via CodeCademy's Data Science Career Path** | 🎯 **Seeking an apprenticeship in Data Science/AI**  
 
