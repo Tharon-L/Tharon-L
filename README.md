@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Tharon Loudiern | Data Science Apprentice
 
+![FR-Bannière-LinkedIn](https://github.com/user-attachments/assets/32d90c0a-d0a3-4ba9-9adc-a08f4a076627)
+
 🚀 **Aspiring Data Scientist** | 📚 **Currently learning via CodeCademy's Data Science Career Path** | 🎯 **Seeking an apprenticeship in Data Science/AI**  
 
 📍 **Mobility**: France (National) | 🌍 **International background**: Lived in Slovakia, Romania, Poland  
