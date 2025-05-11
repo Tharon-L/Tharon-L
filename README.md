@@ -34,9 +34,9 @@ Passionate about **data-driven problem-solving**, I’m currently sharpening my 
 
 ## 📂 **Featured Projects**  
 
-### 1️⃣ [Cost Visualization for SICK2000](https://github.com/Tharon-L/Webcraping-and-Cost-Visualisation-on-SICK200) *(Web Scraping + Data Viz)*  
-- **Tech**: Python (Pandas, Matplotlib), REST API  
-- **Key Takeaway**: Collaborated remotely in English to transform raw data into actionable insights.  
+### 1️⃣ [Endangered Species in National Parks](https://github.com/Tharon-L/Endangered_species_in_national_parks) *(Exploratory Analysis (EDA) + Data Viz)*  
+- **Tech**: Python (Pandas, Matplotlib, Seaborn, Numpy)  
+- **Key Takeaway**: Have clear recommandations for people who wants to visit national parks and preserve its wildlife.  
 
 ### 2️⃣ [Wine Database Management](https://github.com/Tharon-L/FrenchWine-/tree/main) *(SQL + Data Modeling)*  
 - **Tech**: PostgreSQL, SQLite  
@@ -71,7 +71,7 @@ Passionate about **data-driven problem-solving**, I’m currently sharpening my 
 ## 📬 **Let’s Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tharon-loudiern-alternance-data-science-septembre2025/)
 - 📧 **Email**: loudiern.tharon.pro@gmail.com  
-- 🏋️ **Fun Fact**: Calisthenics enthusiast + podcast addict!  
+- 🏋️ **Fun Fact**: Calisthenics/Street lifting enthusiast + podcast addict!  
 
 ---
 
